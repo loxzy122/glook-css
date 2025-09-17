@@ -12,6 +12,7 @@ Include the following files in your HTML project:
 ```html
 <!-- In your head section -->
 <link rel="stylesheet" href="path/to/glook3.0.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/loxzy122/glook-css@v1.0.0/glook.min.css">
 
 <!-- Before closing body tag -->
 <script src="path/to/glook.min.js"></script>
